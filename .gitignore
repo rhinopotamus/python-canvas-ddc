@@ -1,2 +1,4 @@
 python-canvas-ddc.code-workspace
-token
+canvas-token
+google-credentials.json
+google-token.json
