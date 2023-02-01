@@ -32,6 +32,7 @@ Things I need to know to do this:
         - Display student name
         - Show assignment picker dropdown so I can compare to their submitted string
         - Display requested new due date
+        - Check for anything they need
         - Click a button to fire the request to the API. (Should I worry about batching?)
 - Write "Done" to the status column in the spreadsheet.
 - Send a confirmation email to the student?
